@@ -37,4 +37,4 @@ def test_exponentiate():
     """
     Test exponentiate
     """
-    assert(bm.exponentiate(6, 3) == 2016)
+    assert(bm.exponentiate(6, 3) == 216)
